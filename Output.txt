@@ -1,0 +1,52 @@
+Sergio Agudelo Bernal
+Ingenieria mecatrónica
+1000001-11 Matemáticas Básicas 4 8 12 P 4 1  AP
+1000044-33C Inglés I- Semestral 4 4 8 P 3 1 F AP
+1000045-33C Inglés II - Semestral 4 4 8 P 3 1 F AP
+1000046-33C Inglés III - Semestral 4 4 8 P 3 1 F AP
+2015711-14 Dibujo Básico 6 0 6 B 3 1  3.2
+2015734-16 Programación de computadores 6 0 6 B 3 1  3.2
+2017265-4 Ingeniería y Desarrollo Sostenible 4 0 4 C 3 1  3.0
+2017278-5 Tecnologia Mecánica Básica 4 0 4 C 3 1  3.6
+1000004-17 Cálculo Diferencial 4 0 4 B 4 1  3.9
+1000024-2 Principios de química 5 0 5 B 3 1  3.1
+2016509-1 Taller de Ingeniería Electrónica 4 0 4 C 2 1  3.2
+1000003-2 Álgebra Lineal 4 0 4 B 4 1  4.4
+1000005-13 Cálculo Integral 4 0 4 B 4 1  3.9
+1000019-18 Fundamentos de Mecánica 6 0 6 B 4 1  4.8
+2016489-3 Circuitos Eléctricos I 4 0 4 C 3 1  4.2
+1000006-5 Cálculo en varias variables 4 0 4 B 4 1  3.0
+1000017-1 Fundamentos de electricidad y magnetismo 6 0 6 B 4 1  2.5
+1000013-15 Probabilidad y Estadística Fundamental 4 0 4 B 3 1  4.0
+2016640-4 Principios de Estática 4 0 4 C 3 1  3.7
+1000007-1 Ecuaciones Diferenciales 4 0 4 B 4 1  3.6
+1000047-33C Inglés IV- Semestral 4 4 8 P 3 1 F AP
+1000017-20 Fundamentos de electricidad y magnetismo 6 0 6 B 4 2  3.5
+2016375-5 Programación orientada a objetos 4 0 4 C 3 1  4.7
+2016495-2 Electrónica Análoga I 6 0 6 C 4 1  2.1
+2017271-1 Principios de dinámica 4 0 4 C 3 1  2.1
+2024820-1 Cátedra José Celestino Mutis Nanotecnología: El tamaño si importa 3 0 3 L 3 1  4.0
+2015159-2 Variable compleja 4 0 4 B 4 1  3.4
+2016495-8 Electrónica Análoga I 6 0 6 C 4 2  3.3
+2016506-1 Señales y Sistemas I 4 0 4 C 3 1  3.2
+2016699-1 Estructuras de Datos 4 0 4 C 3 1  4.0
+2017256-1 Ciencia e Ingeniería de Materiales 4 0 4 C 3 1  3.5
+2017271-2 Principios de dinámica 4 0 4 C 3 2  2.6
+2021160-1 Particulas y cosmologia 4 0 4 L 3 1  3.9
+2015703-14 Ingeniería económica 4 0 4 B 3 1  3.0
+2016507-4 Señales y Sistemas II 4 0 4 C 3 1  4.2
+1000018-2 Fundamentos de Física Moderna 4 0 4 B 3 1  3.9
+2017271-4 Principios de dinámica 4 0 4 C 3 3  3.0
+2017274-1 Procesos de Manufactura II 5 0 5 C 3 1  3.9
+2017277-3 Resistencia de Materiales 4 0 4 C 3 1  3.3
+2015702-10 Gerencia y gestión de proyectos 4 0 4 B 3 1  2.0
+2015942-3 Aplicaciones de Elementos Finitos 4 0 4 B 3 1  1.8
+2016493-2 Control 6 0 6 C 4 1  2.4
+2016498-2 Electrónica Digital I 5 0 5 C 4 1  2.5
+2016642-1 Termodinámica 4 0 4 L 3 1  3.0
+2016705-2 Redes y Sistemas Distribuidos 4 0 4 C 3 1  3.2
+2015970-10 Métodos numéricos 4 0 4 B 3 1  2.9
+2016493-4 Control 6 0 6 C 4 2  1.6
+2016498-7 Electrónica Digital I 5 0 5 C 4 2  2.8
+2016788-1 Tecnología Digital 4 0 4 L 3 1  4.0
+2017287-1 Sensores y Actuadores 4 0 4 C 3 1  3.2

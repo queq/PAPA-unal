@@ -1,0 +1,19 @@
+  def on_calc_button_clicked(self, button, data=None):
+  	print "Calculo de proyeccion"
+  	self.cods = []
+  	self.creds = []
+  	self.grads = []
+  	for self.c in range(1, 7):
+  	  self.cod = self.builder.get_object("entryCod{}".format(str(self.c)))
+  	  self.cred = self.builder.get_object("entryCred{}".format(str(self.c)))
+  	  self.grad = self.builder.get_object("entryNota{}".format(str(self.c)))
+  	  if self.cred.get_text() != '' and self.grad.get_text() != '':
+  	    self.cods.append(self.cod.get_text())
+  	    self.creds.append(int(self.cred.get_text()))
+  	    self.grads.append(float(self.grad.get_text()))
+  	  else:
+  	    break
+  	    
+  	print self.cods
+  	print self.creds
+  	print self.grads
